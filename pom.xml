@@ -6,6 +6,7 @@
   <packaging>pom</packaging>
   <name>Hobbies-Office</name>
   <description>Hobbies-Office</description>
+  
   <modules>
   	<module>core</module>
   </modules>
